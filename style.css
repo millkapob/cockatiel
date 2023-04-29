@@ -1,0 +1,23 @@
+body {
+    background-color: #fffd91;
+    font-family:sans-serif;
+}
+header{
+    background-color:#d3d160;
+}
+.ponk {
+    border: 10px solid #d3d160;
+}
+.haha {
+    border: 10px solid #d3d160;
+}
+.kus {
+    border: 10px solid #d3d160;
+}
+header a {
+    border: yellowgreen;
+    color:black;
+    background-color: #c2c055;
+    text-decoration: none;
+   font-size: ;
+}
